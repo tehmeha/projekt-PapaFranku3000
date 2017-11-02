@@ -1,5 +1,5 @@
 # naziv projekta
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Leonardo Peloza & Jakov Racic
 - programming language: C++
-- description: Opis
+- description: Igrac igra igru "Spoji 4"
